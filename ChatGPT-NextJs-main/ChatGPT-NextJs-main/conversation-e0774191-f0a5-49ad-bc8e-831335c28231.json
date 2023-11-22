@@ -1,0 +1,35 @@
+{
+  "id": "e0774191-f0a5-49ad-bc8e-831335c28231",
+  "messages": [
+    {
+      "id": "4433485b-f300-4e0e-aa3d-ba703a77bc6d",
+      "text": "hello world in 10 languages",
+      "sender": "You",
+      "avatar": null,
+      "typing": false,
+      "role": "user",
+      "tokenCount": 6,
+      "created": 1700426027800,
+      "updated": null
+    },
+    {
+      "id": "0cf0c505-3643-4021-babf-b940d2c17c4d",
+      "text": "[OpenAI Issue] Error: 404 · Not Found · {\"error\":{\"message\":\"The model `gpt-4` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"model_not_found\"}}",
+      "sender": "Bot",
+      "avatar": null,
+      "typing": false,
+      "role": "assistant",
+      "tokenCount": 78,
+      "created": 1700426027801,
+      "updated": null,
+      "purposeId": "Developer",
+      "originLLM": "gpt-4"
+    }
+  ],
+  "systemPurposeId": "Developer",
+  "chatModelId": "gpt-4",
+  "tokenCount": 95,
+  "created": 1700426020763,
+  "updated": 1700426054793,
+  "abortController": null
+}
